@@ -18,7 +18,7 @@ https://suistreampay.vercel.app/
 
 
 ## Demo Video 
-https://suistreampay.vercel.app/
+https://bit.ly/SuiStreamPay
 
 
 ## Developers
